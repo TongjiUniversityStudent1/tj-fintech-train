@@ -1,0 +1,5 @@
+执行顺序：
+package.json --> server.js --> /index.js -->/route/baseRouter -->component/App,Tab1,Tab2,Tab3 --> /public/index.html -->
+
+
+webpack entry/output
